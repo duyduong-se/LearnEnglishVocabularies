@@ -10,7 +10,7 @@
 | V1 | V2 | V3 |
 |---|---|---|
 | am / is / are | was / were | been |
-| /æm/ · /ɪz/ · /ɑːr/ | /wɒz/ · /wɜːr/ | /biːn/ |
+| /æm/ · /ɪz/ · /ɑːr/ | /wʌz/ · /wɜːr/ | /biːn/ |
 
 **Lưu ý:**
 - Dạng rút gọn thường dùng khi nói: I'm / She's / They're / isn't / weren't
@@ -164,33 +164,27 @@ It is said that... → Người ta nói rằng
 **Chia thì:**
 | V1 | V2 | V3 |
 |---|---|---|
-| get | got | gotten (AmE) / got (BrE) |
-
-**Lưu ý:**
-- rất phổ biến trong spoken English
-- British English dùng "got" cho cả V3
+| get | got | gotten |
+| /ɡɛt/ | /ɡɑːt/ | /ˈɡɑːtən/ |
 
 **Cấu trúc & Ví dụ:**
 
-get + [noun] → Lấy hoặc nhận cái gì
-- He got a promotion last month.
-- She finally got the job she had been waiting for.
+get + [noun] → Nhận / lấy được cái gì
+- I got a message from him.
 
-get + [adjective] → Trở nên
-- She will get better soon with proper rest.
-- He got angry when he heard the news.
+get + [adjective] → Trở nên (diễn tả sự thay đổi)
+- It's getting dark.
 
-get + to + place → Đến nơi nào đó
-- I usually get to work by bus.
-- How long does it take to get to the airport?
+get + sb + to + V → Nhờ / khiến ai đó làm gì
+- I'll get him to fix it.
 
 **Collocation phổ biến:**
-- get a job, get better, get ready, get angry, get permission
+- get a job, get better, get ready
 
 **Phrasal Verbs:**
 - get up: thức dậy → *I get up at 6 every morning.*
-- get along: hòa thuận → *They get along very well.*
 - get over: vượt qua → *She finally got over her fear of flying.*
+- get back: trở lại / lấy lại → *When did you get back from the trip?*
 
 ---
 
