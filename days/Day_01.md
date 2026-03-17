@@ -273,31 +273,25 @@ know + how/what/where + to + V → Biết cách làm gì
 | V1 | V2 | V3 |
 |---|---|---|
 | take | took | taken |
-
-**Lưu ý:**
-- take có nhiều nghĩa tùy ngữ cảnh: lấy, mang theo, dẫn đi, mất (thời gian)
+| /teɪk/ | /tʊk/ | /ˈteɪkən/ |
 
 **Cấu trúc & Ví dụ:**
 
-take + [noun] → Lấy/mang cái gì
-- Please take your seat — the meeting is about to start.
-- He took a photo of the sunset from the rooftop.
+take + [noun] → Lấy / mang cái gì
+- He took a photo of the sunset.
 
-take + time → Mất bao lâu
-- It took me two hours to finish the assignment.
-- Learning a new skill takes time and patience.
+It takes + time → Mất bao lâu
+- It took me two hours to finish.
 
 take + sb + to + place → Đưa ai đến đâu
-- I will take the kids to school tomorrow morning.
-- She took her parents to the airport last night.
+- She took her parents to the airport.
 
 **Collocation phổ biến:**
-- take a break, take action, take notes, take responsibility, take a photo
+- take a break, take notes, take a photo
 
 **Phrasal Verbs:**
-- take off: cất cánh, cởi ra → *The plane took off on time.*
+- take off: cất cánh / cởi ra → *The plane took off on time.*
 - take over: tiếp quản → *She took over the management position.*
-- take up: bắt đầu sở thích mới → *He took up painting last year.*
 
 ---
 
