@@ -302,31 +302,24 @@ take + sb + to + place → Đưa ai đến đâu
 | V1 | V2 | V3 |
 |---|---|---|
 | see | saw | seen |
+| /siː/ | /sɔː/ | /siːn/ |
 
 **Lưu ý:**
-- stative verb khi nghĩa là "nhìn thấy" (không chủ định)
-- dynamic verb khi nghĩa là "gặp gỡ"
+- "see" = nhìn thấy không chủ ý — khác "look" (nhìn có chủ ý)
 
 **Cấu trúc & Ví dụ:**
 
-see + [noun/pronoun] → Nhìn thấy ai/cái gì
-- Did you see the news about the earthquake last night?
-- I haven't seen a film that good in years.
+see + [noun] → Nhìn thấy ai/cái gì
+- Did you see that?
 
-see + sb + V/V-ing → Thấy ai đó làm gì
-- I saw him leave the office early yesterday.
-- We saw the children playing in the park.
+see + sb + V/V-ing → Thấy ai đó đang làm gì
+- I saw him walking down the street.
 
 I see → Tôi hiểu rồi (spoken English)
-- I see — so that's why the project was delayed.
-- Oh, I see. That makes much more sense now.
+- I see. That makes sense.
 
 **Collocation phổ biến:**
-- see a doctor, see the point, see clearly, see the difference, see eye to eye
-
-**Phrasal Verbs:**
-- see through: nhìn thấu, nhận ra → *She saw through his lies immediately.*
-- see off: tiễn → *We went to the airport to see him off.*
+- see a doctor
 
 ---
 
