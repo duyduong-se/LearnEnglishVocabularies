@@ -251,29 +251,18 @@ go + [adj] → Trở nên (thường theo chiều xấu)
 | V1 | V2 | V3 |
 |---|---|---|
 | know | knew | known |
-
-**Lưu ý:**
-- stative verb (động từ trạng thái) — không dùng trong thì tiếp diễn
+| /noʊ/ | /njuː/ | /noʊn/ |
 
 **Cấu trúc & Ví dụ:**
 
-know + [noun/pronoun] → Biết ai/cái gì
-- I know three foreign languages: English, French, and Japanese.
-- Do you know the new manager in our department?
+know + [noun] → Biết ai/cái gì
+- Do you know him?
 
-know + (that) + clause → Biết rằng...
-- I know that this project will be a success.
-- She knew that he was not telling the whole truth.
+know + (that) + clause → Biết rằng
+- I know that she is right.
 
-know + how/what/where to + V → Biết cách làm gì
-- By the end of this course, you will know how to write professional emails.
-- He knows exactly what to say in difficult situations.
-
-**Collocation phổ biến:**
-- know the answer, know by heart, know for sure, know someone well, know the difference
-
-**Phrasal Verbs:**
-- know about: biết về → *Do you know about the new project?*
+know + how/what/where + to + V → Biết cách làm gì
+- He knows how to handle it.
 
 ---
 
