@@ -195,31 +195,24 @@ get + sb + to + V → Nhờ / khiến ai đó làm gì
 | V1 | V2 | V3 |
 |---|---|---|
 | make | made | made |
+| /meɪk/ | /meɪd/ | /meɪd/ |
 
 **Lưu ý:**
-- nhấn mạnh vào kết quả tạo ra
-- khác với "do" (hành động chung)
+- "make" nhấn mạnh kết quả tạo ra — khác "do" (hành động chung)
 
 **Cấu trúc & Ví dụ:**
 
-make + [noun] → Tạo ra, làm ra cái gì
-- He makes coffee for everyone in the office each morning.
-- She makes handmade cards for her friends.
+make + [noun] → Tạo ra / làm ra cái gì
+- He makes coffee for everyone every morning.
 
-make + sb + [adj/verb] → Khiến ai đó cảm thấy/làm gì
-- This new policy will make it easier for employees to work from home.
-- The news made everyone in the room feel anxious.
-
-make + a decision/plan → Đưa ra quyết định/kế hoạch
-- We need to make a decision before the deadline.
-- The team made a detailed plan for the product launch.
+make + [noun cố định] → Cụm cố định thường dùng
+- We need to make a decision soon.
 
 **Collocation phổ biến:**
-- make a decision, make progress, make a mistake, make money, make sense
+- make a decision, make a mistake, make money, make sense
 
 **Phrasal Verbs:**
-- make up: bịa đặt, hòa giải, trang điểm → *She made up a story to avoid trouble.*
-- make out: hiểu, nhìn thấy → *I can't make out what he's saying.*
+- make up: bịa đặt / hòa giải → *She made up a story to avoid trouble.*
 
 ---
 
