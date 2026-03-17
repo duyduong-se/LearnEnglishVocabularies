@@ -142,28 +142,19 @@ What do/does + S + do? → Hỏi nghề nghiệp
 **Chia thì:**
 | V1 | V2 | V3 |
 |---|---|---|
-| say (says /sɛz/) | said | said |
-
-**Lưu ý:**
-- says /sɛz/ (ngôi thứ 3 số ít)
-- say thường đi với nội dung lời nói trực tiếp
+| say (says) | said | said |
+| /seɪ/ · /sɛz/ | /sɛd/ | /sɛd/ |
 
 **Cấu trúc & Ví dụ:**
 
-S + say + (that) + clause → Nói rằng...
-- He said that he would come to the party.
-- She says that she needs more time to decide.
+S + say + (that) + clause → Nói rằng
+- He said that he would come.
 
-S + say + to + sb + that → Nói với ai đó rằng...
-- She said to her team that the deadline had been moved.
-- He said to his manager that the deadline was too tight.
+S + say + to + sb + that → Nói với ai đó rằng
+- She said to her manager that the deadline was too tight.
 
-It is said that... → Người ta nói rằng...
+It is said that... → Người ta nói rằng
 - It is said that practice makes perfect.
-- It is said that laughter is the best medicine.
-
-**Collocation phổ biến:**
-- say hello, say goodbye, say sorry, say yes/no, say a word
 
 ---
 
