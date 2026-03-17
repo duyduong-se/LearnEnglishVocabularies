@@ -223,31 +223,24 @@ make + [noun cố định] → Cụm cố định thường dùng
 | V1 | V2 | V3 |
 |---|---|---|
 | go | went | gone |
-
-**Lưu ý:**
-- went là từ hoàn toàn khác gốc (suppletive form)
+| /ɡoʊ/ | /wɛnt/ | /ɡɔːn/ |
 
 **Cấu trúc & Ví dụ:**
 
 go + to + place → Đi đến nơi nào
-- They go to the gym three times a week.
-- She went to the library to return the books.
+- She went to the library.
 
-go + V-ing → Đi làm hoạt động gì (go swimming, go shopping)
-- We went shopping at the new mall last weekend.
-- I will go hiking in the mountains this summer.
+go + V-ing → Đi làm hoạt động gì
+- We went shopping last weekend.
 
-go + [adverb/adjective] → Trở nên xấu đi (go wrong, go bad)
-- Everything went wrong during the presentation.
-- The milk has gone bad — don't drink it.
+go + [adj] → Trở nên (thường theo chiều xấu)
+- Everything went wrong.
 
 **Collocation phổ biến:**
-- go home, go abroad, go shopping, go wrong, go ahead
+- go home, go shopping, go ahead
 
 **Phrasal Verbs:**
-- go on: tiếp tục → *Please go on with your story.*
-- go through: trải qua → *She went through a difficult time last year.*
-- go over: xem xét lại → *Let's go over the plan one more time.*
+- go through: trải qua → *She went through a difficult time.*
 
 ---
 
