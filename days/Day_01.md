@@ -10,25 +10,42 @@
 | V1 | V2 | V3 |
 |---|---|---|
 | am / is / are | was / were | been |
+| /æm/ · /ɪz/ · /ɑːr/ | /wɒz/ · /wɜːr/ | /biːn/ |
 
 **Lưu ý:**
-- am/is/are (hiện tại)
-- was/were (quá khứ)
-- been (quá khứ phân từ)
+- Dạng rút gọn thường dùng khi nói: I'm / She's / They're / isn't / weren't
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 S + am/is/are + [noun/adj] → Diễn tả trạng thái, đặc điểm
-- She is a talented musician.
-- The weather is really pleasant today.
+- She is a doctor.
 
 S + was/were + [noun/adj] → Diễn tả trạng thái trong quá khứ
-- They were very tired after the long trip.
-- The meeting was more productive than expected.
+- They were very tired after the trip.
 
 S + will be + [noun/adj] → Diễn tả trạng thái trong tương lai
-- I will be at the office by 9 a.m. tomorrow.
 - The results will be ready by Friday.
+
+**[Trợ động từ]**
+
+S + am/is/are + V-ing → Thì hiện tại tiếp diễn
+- She is working right now.
+
+S + was/were + V-ing → Thì quá khứ tiếp diễn
+- I was reading when she called.
+
+S + am/is/are/was/were + V3 → Câu bị động
+- The letter was written by him.
+
+**[Câu phủ định & câu hỏi]**
+
+S + am/is/are + not + ... → Phủ định
+- She isn't available right now.
+
+Am/Is/Are + S + ...? → Câu hỏi Yes/No
+- Are you ready?
 
 **Collocation phổ biến:**
 - be careful, be ready, be responsible, be aware, be happy
