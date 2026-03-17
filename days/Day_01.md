@@ -63,31 +63,37 @@ Am/Is/Are + S + ...? → Câu hỏi Yes/No
 | V1 | V2 | V3 |
 |---|---|---|
 | have (has) | had | had |
-
-**Lưu ý:**
-- has (ngôi thứ 3 số ít hiện tại)
-- dùng làm trợ động từ trong thì hoàn thành
+| /hæv/ · /hæz/ | /hæd/ | /hæd/ |
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 S + have/has + [noun] → Diễn tả sở hữu
 - I have two younger brothers.
-- She has a lot of experience in marketing.
+
+have + [noun] → Cụm cố định (have lunch, have fun, have a meeting...)
+- Let's have a quick break.
+
+**[Trợ động từ]**
 
 S + have/has + V3 → Thì hiện tại hoàn thành
-- She has already had lunch.
-- We have finished the first draft of the report.
+- She has already finished the report.
 
-have + [noun] → Dùng trong cụm cố định (have lunch, have fun)
-- We will have a team meeting next Monday.
-- Let's have a quick break before continuing.
+S + had + V3 → Thì quá khứ hoàn thành
+- He had left before I arrived.
+
+**[Câu phủ định & câu hỏi]**
+
+S + don't/doesn't + have + ... → Phủ định
+- I don't have time right now.
+
+Do/Does + S + have + ...? → Câu hỏi Yes/No
+- Do you have a minute?
 
 **Collocation phổ biến:**
 - have breakfast/lunch/dinner, have fun, have time, have a meeting, have experience
 
-**Phrasal Verbs:**
-- have out: giải quyết bất đồng → *Let's have it out and settle this.*
-- have over: mời ai đến nhà → *We had some friends over for dinner.*
 
 ---
 
