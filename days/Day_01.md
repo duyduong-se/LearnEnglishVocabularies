@@ -330,32 +330,21 @@ I see → Tôi hiểu rồi (spoken English)
 | V1 | V2 | V3 |
 |---|---|---|
 | come | came | come |
-
-**Lưu ý:**
-- V3 cùng dạng với V1
-- come ngược nghĩa với go (người nói ở đích đến)
+| /kʌm/ | /keɪm/ | /kʌm/ |
 
 **Cấu trúc & Ví dụ:**
 
 come + to + place → Đến nơi nào
-- My parents come to visit me every Chinese New Year.
-- Can you come to the office early tomorrow?
+- Can you come to the office tomorrow?
 
-come + from → Đến từ, xuất phát từ
-- This idea came from a suggestion made by a junior employee.
-- Where does your motivation come from?
+come + from → Đến từ / xuất phát từ
+- Where do you come from?
 
-come + true/first/to an end → Dùng trong cụm cố định
-- His dream finally came true after years of hard work.
-- The concert came to an end at midnight.
+come + true/to an end → Cụm cố định
+- His dream finally came true.
 
 **Collocation phổ biến:**
-- come home, come true, come first, come to mind, come to an end
-
-**Phrasal Verbs:**
-- come up with: nghĩ ra → *She came up with a brilliant idea.*
-- come across: tình cờ gặp → *I came across an old photo album.*
-- come back: trở lại → *When will you come back?*
+- come true, come back
 
 ---
 
