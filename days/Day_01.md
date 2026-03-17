@@ -104,31 +104,35 @@ Do/Does + S + have + ...? → Câu hỏi Yes/No
 | V1 | V2 | V3 |
 |---|---|---|
 | do (does) | did | done |
+| /duː/ · /dʌz/ | /dɪd/ | /dʌn/ |
 
 **Lưu ý:**
-- does (ngôi thứ 3 số ít)
-- dùng làm trợ động từ trong câu phủ định/nghi vấn
+- Dạng rút gọn phủ định: don't / doesn't / didn't
 
 **Cấu trúc & Ví dụ:**
 
-do + [noun/noun phrase] → Thực hiện một hành động cụ thể
-- He does yoga every morning before work.
-- She does her homework right after school.
+**[Động từ chính]**
+
+do + [noun] → Thực hiện một hành động
+- She does her homework every day.
 
 do + one's best → Cố gắng hết sức
-- I will do my best to finish the project on time.
-- He always does his best under pressure.
+- I'll do my best.
 
-What does S + do? → Hỏi nghề nghiệp hoặc hành động
+**[Trợ động từ — phủ định & câu hỏi]**
+
+S + don't/doesn't + V → Phủ định hiện tại
+- I don't understand.
+
+S + didn't + V → Phủ định quá khứ
+- He didn't come yesterday.
+
+Do/Does + S + V? → Câu hỏi Yes/No
+- Do you like coffee?
+
+What do/does + S + do? → Hỏi nghề nghiệp
 - What do you do for a living?
-- What does your brother do?
 
-**Collocation phổ biến:**
-- do homework, do the dishes, do research, do business, do one's best
-
-**Phrasal Verbs:**
-- do away with: loại bỏ → *They want to do away with old regulations.*
-- do up: sửa sang, cài lại → *She did up her coat before going outside.*
 
 ---
 
