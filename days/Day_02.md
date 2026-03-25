@@ -106,29 +106,25 @@ Does + S + seem + ...? → Câu hỏi
 | V1 | V2 | V3 |
 |---|---|---|
 | feel | felt | felt |
-
-**Lưu ý:**
-- vừa là stative (feel happy) vừa là dynamic verb (feel the texture)
+| /fiːl/ | /fɛlt/ | /fɛlt/ |
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 feel + [adjective] → Cảm thấy như thế nào
-- I feel much better after a good night's sleep.
-- She felt nervous but well-prepared before the exam.
+- I feel great today.
 
-feel + like + [noun/V-ing] → Cảm thấy muốn làm gì
-- I feel like taking a walk after dinner.
-- He felt like quitting when things got too difficult.
+feel + that + clause → Cho rằng...
+- She felt that something was wrong.
 
-feel + that + clause → Cảm thấy/cho rằng...
-- You will feel more confident once you practice more regularly.
-- She felt that the team deserved more recognition.
+**[Câu phủ định & câu hỏi]**
 
-**Collocation phổ biến:**
-- feel happy/sad/nervous, feel comfortable, feel at home, feel confident, feel pain
+S + don't/doesn't + feel + ... → Phủ định
+- I don't feel well today.
 
-**Phrasal Verbs:**
-- feel for: đồng cảm với → *I really feel for you in this difficult time.*
+How do/does + S + feel + ...? → Hỏi cảm giác
+- How do you feel about it?
 
 ---
 
