@@ -45,31 +45,28 @@ Who told + S + ...? → Hỏi ai nói
 | V1 | V2 | V3 |
 |---|---|---|
 | ask | asked | asked |
-
-**Lưu ý:**
-- thêm -ed (regular)
-- ask có thể là hỏi (ask a question) hoặc yêu cầu (ask for help)
+| /æsk/ | /æskt/ | /æskt/ |
 
 **Cấu trúc & Ví dụ:**
 
-ask + sb + [question] → Hỏi ai điều gì
-- Students are encouraged to ask questions during the lecture.
-- She asked the instructor to clarify the assignment requirements.
+**[Động từ chính]**
 
-ask + sb + to + V → Yêu cầu ai làm gì
-- She asked me to review her report before submitting it.
-- The manager asked the team to stay late to finish the project.
+ask + sb + [question] → Hỏi ai điều gì
+- She asked me where I was from.
+
+ask + sb + to + V → Nhờ/yêu cầu ai làm gì
+- He asked me to help him move.
 
 ask + for + [noun] → Xin/yêu cầu cái gì
-- I will ask the manager for more details about the new policy.
-- He asked for permission to leave the meeting early.
+- Can I ask for the bill, please?
 
-**Collocation phổ biến:**
-- ask a question, ask for help, ask permission, ask for advice, ask politely
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- ask out: mời đi hẹn hò → *He asked her out to dinner.*
-- ask around: hỏi nhiều người → *I'll ask around if anyone knows.*
+S + didn't + ask + ... → Phủ định
+- She didn't ask for help.
+
+Why didn't + S + ask + ...? → Câu hỏi
+- Why didn't you ask me earlier?
 
 ---
 
