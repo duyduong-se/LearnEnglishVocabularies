@@ -507,30 +507,31 @@ Can/Could + S + give + ...? → Nhờ vả lịch sự
 | V1 | V2 | V3 |
 |---|---|---|
 | use | used | used |
+| /juːz/ | /juːzd/ | /juːzd/ |
 
 **Lưu ý:**
-- thêm -d (regular, vì kết thúc bằng -e)
 - "used to + V" diễn tả thói quen trong quá khứ (không còn nữa)
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 use + [noun] → Sử dụng cái gì
-- We use cloud software to collaborate on documents in real time.
-- She uses a planner to keep track of her daily tasks.
+- Can I use your pen?
 
 use + [noun] + to + V → Dùng cái gì để làm gì
-- She used her creativity to design an outstanding poster.
-- He uses public transport to get to work every day.
+- He used a knife to open the box.
 
-used to + V → Thói quen/trạng thái trong quá khứ
-- I used to walk to school when I was young.
-- She used to work late every night before she changed jobs.
+used to + V → Thói quen trong quá khứ
+- She used to drink coffee every morning.
 
-**Collocation phổ biến:**
-- use a tool, use technology, use energy, use language, use common sense
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- use up: dùng hết → *We used up all the paper in the printer.*
+S + don't/doesn't + use + ... → Phủ định
+- I don't use cash anymore.
+
+Do/Does + S + use + ...? → Câu hỏi Yes/No
+- Do you use Google Maps?
 
 ---
 
