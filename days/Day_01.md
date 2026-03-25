@@ -355,31 +355,31 @@ come + true/to an end → Cụm cố định
 | V1 | V2 | V3 |
 |---|---|---|
 | think | thought | thought |
-
-**Lưu ý:**
-- stative verb khi có nghĩa "tin rằng/ý kiến"
-- dynamic verb khi đang suy nghĩ tích cực
+| /θɪŋk/ | /θɔːt/ | /θɔːt/ |
 
 **Cấu trúc & Ví dụ:**
 
-think + (that) + clause → Nghĩ rằng, cho rằng
-- I think this proposal is worth considering seriously.
-- She thinks that the new policy will benefit everyone.
+**[Động từ chính]**
+
+think + (that) + clause → Nghĩ rằng, cho rằng (ý kiến)
+- I think this movie is really good.
 
 think about/of + [noun/V-ing] → Suy nghĩ về điều gì
-- She thought about the problem for a long time before answering.
-- He is thinking of applying for a new position.
+- She is thinking of getting a dog.
 
-think + [question word] + clause → Nghĩ như thế nào
-- What do you think will happen next?
-- I can't think why she would make such a decision.
+think + [question word] + clause → Suy nghĩ / không hiểu tại sao
+- I can't think where I put my keys.
 
-**Collocation phổ biến:**
-- think carefully, think clearly, think twice, think positively, think outside the box
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- think over: suy nghĩ kỹ → *Think it over before you decide.*
-- think up: nghĩ ra → *He thought up a clever solution.*
+I don't think + (that) + clause → Phủ định lịch sự (không dùng "I think... not")
+- I don't think he likes coffee.
+
+What do you think about/of + [noun]? → Hỏi ý kiến
+- What do you think about this restaurant?
+
+Do you think + (that) + clause? → Hỏi ý kiến Yes/No
+- Do you think it will rain today?
 
 ---
 
