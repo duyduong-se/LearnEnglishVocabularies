@@ -390,32 +390,39 @@ Do you think + (that) + clause? → Hỏi ý kiến Yes/No
 | V1 | V2 | V3 |
 |---|---|---|
 | look | looked | looked |
+| /lʊk/ | /lʊkt/ | /lʊkt/ |
 
 **Lưu ý:**
-- thêm -ed (regular)
-- "look" là hành động chủ ý, khác "see" (nhìn thấy không chủ ý)
+- "look" = nhìn có chủ ý — khác "see" (nhìn thấy không chủ ý)
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 look at + [noun] → Nhìn vào cái gì (chủ ý)
-- Please look at the screen while I explain the diagram.
-- She looked at the contract carefully before signing.
+- She looked at the photo and smiled.
 
 look + [adjective] → Trông có vẻ như thế nào
-- He looked very nervous before his job interview.
-- You look tired — did you sleep well last night?
+- You look tired. Are you okay?
 
-look + like + [noun/clause] → Trông giống như
-- It looks like the meeting will be postponed again.
-- This design looks exactly like what the client wanted.
+look + like + [noun/clause] → Trông giống như / có vẻ như
+- It looks like it's going to rain.
+
+**[Câu phủ định & câu hỏi]**
+
+S + don't/doesn't + look + [adj] → Phủ định
+- He doesn't look happy today.
+
+What does + S + look + like? → Hỏi ngoại hình / trông như thế nào
+- What does the new café look like?
 
 **Collocation phổ biến:**
-- look happy/tired/great, look forward to, look the same, look different, look serious
+- look happy/tired/great, look the same, look different, look serious
 
 **Phrasal Verbs:**
 - look up: tra cứu → *Look up the word in the dictionary.*
-- look after: chăm sóc → *She looks after her elderly parents.*
-- look forward to: mong chờ → *I'm looking forward to the holiday.*
+- look after: chăm sóc → *She looks after her younger brother.*
+- look forward to: mong chờ → *I'm looking forward to the weekend.*
 
 ---
 
@@ -428,7 +435,6 @@ look + like + [noun/clause] → Trông giống như
 | want | wanted | wanted |
 
 **Lưu ý:**
-- thêm -ed (regular)
 - stative verb — không dùng trong thì tiếp diễn
 
 **Cấu trúc & Ví dụ:**
