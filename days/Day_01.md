@@ -542,30 +542,28 @@ Do/Does + S + use + ...? → Câu hỏi Yes/No
 | V1 | V2 | V3 |
 |---|---|---|
 | find | found | found |
-
-**Lưu ý:**
-- V2 và V3 cùng là "found"
-- find cũng có nghĩa là "nhận thấy/cho rằng" (find it easy)
+| /faɪnd/ | /faʊnd/ | /faʊnd/ |
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 find + [noun] → Tìm thấy cái gì
-- The police found the missing child safe and sound.
-- I found a great café near the office.
+- I found my keys under the sofa.
 
-find + it + [adj] + to + V → Thấy việc gì là...
-- I find it very interesting to learn about different cultures.
-- She finds it difficult to concentrate in noisy environments.
+find + sth + [adj] → Thấy cái gì như thế nào
+- I found the test really difficult.
 
-find + sb/sth + [adj] → Nhận thấy ai/cái gì như thế nào
-- He found the instructions confusing and asked for help.
-- She found the new system very easy to use.
+**[Câu phủ định & câu hỏi]**
 
-**Collocation phổ biến:**
-- find a solution, find time, find out, find it difficult, find one's way
+S + can't + find + ... → Không tìm thấy
+- I can't find my wallet.
+
+Where did + S + find + ...? → Hỏi tìm thấy ở đâu
+- Where did you find that restaurant?
 
 **Phrasal Verbs:**
-- find out: khám phá, tìm hiểu → *I need to find out where the meeting is.*
+- find out: tìm hiểu, phát hiện → *I need to find out what happened.*
 
 ---
 
