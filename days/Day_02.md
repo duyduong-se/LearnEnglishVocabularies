@@ -77,28 +77,25 @@ Why didn't + S + ask + ...? → Câu hỏi
 | V1 | V2 | V3 |
 |---|---|---|
 | seem | seemed | seemed |
-
-**Lưu ý:**
-- thêm -ed (regular)
-- là stative verb, không dùng trong thì tiếp diễn
-- thường theo sau là adjective hoặc to-infinitive
+| /siːm/ | /siːmd/ | /siːmd/ |
 
 **Cấu trúc & Ví dụ:**
 
-seem + [adjective] → Có vẻ như thế nào
-- She seems very confident in front of an audience.
-- He seems tired after the long flight.
+**[Động từ chính]**
 
-seem + to + V → Có vẻ như đang làm gì
-- The project seemed more complicated than we expected.
-- She seems to know everyone in the department.
+seem + [adjective] → Có vẻ như thế nào
+- You seem tired. Are you okay?
 
 It seems (that) + clause → Có vẻ như là...
-- It seems that the weather will improve by the weekend.
-- It seems that the new policy has caused some confusion.
+- It seems that he forgot about the meeting.
 
-**Collocation phổ biến:**
-- seem happy/sad/tired, seem strange, seem impossible, seem right, seem clear
+**[Câu phủ định & câu hỏi]**
+
+S + doesn't + seem + ... → Phủ định
+- That doesn't seem right.
+
+Does + S + seem + ...? → Câu hỏi
+- Does he seem nervous to you?
 
 ---
 
