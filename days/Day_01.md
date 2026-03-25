@@ -433,29 +433,31 @@ What does + S + look + like? → Hỏi ngoại hình / trông như thế nào
 | V1 | V2 | V3 |
 |---|---|---|
 | want | wanted | wanted |
-
-**Lưu ý:**
-- stative verb — không dùng trong thì tiếp diễn
+| /wɒnt/ | /ˈwɒntɪd/ | /ˈwɒntɪd/ |
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 want + [noun] → Muốn cái gì
-- She wants a cup of hot tea in the morning.
-- The team wants more resources to complete the project.
+- I want a coffee.
 
 want + to + V → Muốn làm gì
-- I wanted to call you, but I lost my phone.
-- He wants to apply for the position abroad.
+- She wants to watch a movie tonight.
 
 want + sb + to + V → Muốn ai đó làm gì
-- Do you want me to help you with the presentation?
-- The manager wants everyone to submit their reports by Friday.
+- Do you want me to help you?
+
+**[Câu phủ định & câu hỏi]**
+
+S + don't/doesn't + want + ... → Phủ định
+- He doesn't want to go out today.
+
+Do/Does + S + want + ...? → Câu hỏi Yes/No
+- Do you want some water?
 
 **Collocation phổ biến:**
-- want badly, want desperately, want more, want nothing, want to know
-
-**Phrasal Verbs:**
-- want out: muốn thoát khỏi → *He wants out of this situation.*
+- want to know
 
 ---
 
