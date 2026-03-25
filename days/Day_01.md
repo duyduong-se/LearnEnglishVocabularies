@@ -468,31 +468,35 @@ Do/Does + S + want + ...? → Câu hỏi Yes/No
 | V1 | V2 | V3 |
 |---|---|---|
 | give | gave | given |
-
-**Lưu ý:**
-- có thể có hai tân ngữ — give sb sth hoặc give sth to sb
+| /ɡɪv/ | /ɡeɪv/ | /ˈɡɪvən/ |
 
 **Cấu trúc & Ví dụ:**
 
-give + sb + sth → Đưa/tặng cho ai cái gì (double object)
-- She gives her students detailed feedback on every assignment.
-- He gave me a very useful piece of advice.
+**[Động từ chính]**
+
+give + sb + sth → Đưa/tặng cho ai cái gì
+- He gave me a good idea.
 
 give + sth + to + sb → Đưa/tặng cái gì cho ai
-- The manager will give us more information about the new project tomorrow.
-- Please give this document to the client when they arrive.
+- She gave the book to her friend.
 
-give + [noun] → Cụm cố định: give a speech, give advice
-- He gave a very impressive speech at the graduation ceremony.
-- She gave a short presentation about the new product.
+give + [noun cố định] → Cụm cố định thường dùng
+- Can you give me a hand?
+
+**[Câu phủ định & câu hỏi]**
+
+S + don't/doesn't + give + ... → Phủ định
+- He doesn't give up easily.
+
+Can/Could + S + give + ...? → Nhờ vả lịch sự
+- Could you give me some advice?
 
 **Collocation phổ biến:**
-- give advice, give a speech, give permission, give support, give feedback
+- give advice, give a speech, give feedback, give support, give permission
 
 **Phrasal Verbs:**
-- give up: từ bỏ → *Don't give up on your dreams.*
-- give away: cho đi, tiết lộ → *He gave away all his old books.*
-- give back: trả lại → *Please give back the pen when you're done.*
+- give up: từ bỏ → *Don't give up.*
+- give back: trả lại → *Can you give back my pen?*
 
 ---
 
