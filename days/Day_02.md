@@ -10,31 +10,31 @@
 | V1 | V2 | V3 |
 |---|---|---|
 | tell | told | told |
+| /tɛl/ | /toʊld/ | /toʊld/ |
 
 **Lưu ý:**
-- tell luôn có tân ngữ chỉ người (tell sb sth)
-- khác "say" (say sth)
+- tell luôn cần tân ngữ người — khác "say" (không cần tân ngữ người)
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 tell + sb + sth → Nói/kể cho ai điều gì
-- She always tells her children bedtime stories.
-- He told his manager about the issue right away.
+- She told me a funny story.
 
 tell + sb + (that) + clause → Nói với ai rằng...
-- He told me that the meeting had been cancelled.
-- She told us that she would be late for the presentation.
+- He told me that the meeting was cancelled.
 
 tell + sb + to + V → Bảo ai làm gì
-- Please tell me your decision by Friday afternoon.
-- The doctor told him to rest for at least a week.
+- The doctor told him to rest.
 
-**Collocation phổ biến:**
-- tell the truth, tell a lie, tell a story, tell the difference, tell the time
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- tell off: mắng, phê bình → *The teacher told him off for being late.*
-- tell apart: phân biệt → *I can't tell the twins apart.*
+S + didn't + tell + sb + ... → Phủ định
+- She didn't tell me about it.
+
+Who told + S + ...? → Hỏi ai nói
+- Who told you that?
 
 ---
 
