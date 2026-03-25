@@ -135,32 +135,32 @@ How do/does + S + feel + ...? → Hỏi cảm giác
 | V1 | V2 | V3 |
 |---|---|---|
 | try | tried | tried |
+| /traɪ/ | /traɪd/ | /traɪd/ |
 
 **Lưu ý:**
-- y → ied (regular)
-- try + to V (cố gắng làm)
-- try + V-ing (thử làm xem sao)
+- try + to V → cố gắng làm (chưa chắc thành công)
+- try + V-ing → thử làm xem hiệu quả không
 
 **Cấu trúc & Ví dụ:**
 
-try + to + V → Cố gắng làm gì (có thể thành công hoặc không)
-- She always tries to finish her work before the deadline.
-- I will try to call you as soon as I arrive at the airport.
+**[Động từ chính]**
 
-try + V-ing → Thử làm gì xem hiệu quả không
-- We tried a new approach and it worked much better.
-- Try setting the alarm earlier if you want to beat the traffic.
+try + to + V → Cố gắng làm gì
+- I'll try to finish it today.
+
+try + V-ing → Thử làm gì xem sao
+- Try drinking more water if you feel tired.
 
 try + [noun] → Thử cái gì
-- Have you tried the new restaurant near the office?
-- She tried every remedy before seeing a specialist.
+- Have you tried this café?
 
-**Collocation phổ biến:**
-- try hard, try one's best, try again, try new things, try a different approach
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- try on: mặc thử → *Can I try on this jacket?*
-- try out: thử nghiệm → *We should try out the new system first.*
+S + didn't + try + ... → Phủ định
+- I tried but it didn't work.
+
+Did + S + try + ...? → Câu hỏi
+- Did you try calling her?
 
 ---
 
