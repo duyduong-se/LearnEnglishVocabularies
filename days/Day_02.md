@@ -411,32 +411,32 @@ Did + S + hear + ...? → Câu hỏi
 | V1 | V2 | V3 |
 |---|---|---|
 | play | played | played |
+| /pleɪ/ | /pleɪd/ | /pleɪd/ |
 
 **Lưu ý:**
-- thêm -ed (regular)
-- play + thể thao/game: không dùng mạo từ (play football, play chess)
-- play + nhạc cụ: dùng "the" (play the guitar, play the piano)
+- play + thể thao/game: không dùng mạo từ → *play football, play chess*
+- play + nhạc cụ: dùng "the" → *play the guitar, play the piano*
 
 **Cấu trúc & Ví dụ:**
 
-play + [sport/game] → Chơi thể thao/trò chơi (không mạo từ)
-- The children play in the park every afternoon after school.
-- He plays basketball with his colleagues every Friday evening.
+**[Động từ chính]**
+
+play + [sport/game] → Chơi thể thao/trò chơi
+- Do you want to play chess?
 
 play + the + [instrument] → Chơi nhạc cụ
-- She played the piano at the school concert last Friday.
-- My sister has been playing the violin since she was five.
+- She plays the guitar really well.
 
-play + a role/part → Đóng vai trò
-- She played a key role in the success of the project.
-- Technology plays an important role in modern education.
+play + a role → Đóng vai trò
+- Parents play an important role in their children's education.
 
-**Collocation phổ biến:**
-- play football/chess, play the guitar, play a role, play fair, play a trick
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- play around: đùa giỡn, chơi loanh quanh → *Stop playing around and get serious.*
-- play down: giảm nhẹ tầm quan trọng → *He played down his achievements.*
+S + don't/doesn't + play + ... → Phủ định
+- He doesn't play any sports.
+
+Do/Does + S + play + ...? → Câu hỏi
+- Do you play any instruments?
 
 ---
 
