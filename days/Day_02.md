@@ -238,32 +238,32 @@ Did + S + call + ...? → Câu hỏi
 | V1 | V2 | V3 |
 |---|---|---|
 | keep | kept | kept |
+| /kiːp/ | /kɛpt/ | /kɛpt/ |
 
 **Lưu ý:**
-- keep + V-ing có nghĩa "tiếp tục làm gì"
-- keep + [noun] có nghĩa "giữ lại"
+- keep + V-ing → tiếp tục làm gì
+- keep + [noun] → giữ lại
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 keep + [noun] → Giữ cái gì
-- Please keep this information confidential until further notice.
-- She keeps a journal to track her daily thoughts.
+- You can keep the change.
 
 keep + V-ing → Tiếp tục làm gì
-- She kept working on the project even when everyone else gave up.
-- He keeps making the same mistake despite being corrected.
+- Just keep going, you're almost there.
 
 keep + sb/sth + [adj] → Giữ ai/cái gì trong trạng thái nào
-- I will keep you updated on the progress of the negotiations.
-- Regular exercise helps keep your body healthy and strong.
+- Keep me updated, please.
 
-**Collocation phổ biến:**
-- keep calm, keep in touch, keep a secret, keep a record, keep the pace
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- keep up with: theo kịp → *It's hard to keep up with all the news.*
-- keep on: tiếp tục → *Keep on trying and you'll succeed.*
-- keep away from: tránh xa → *Keep away from negative people.*
+S + can't + keep + ... → Phủ định
+- I can't keep doing this.
+
+How long + did + S + keep + ...? → Hỏi bao lâu
+- How long did you keep that secret?
 
 ---
 
