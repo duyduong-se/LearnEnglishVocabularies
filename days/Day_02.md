@@ -543,31 +543,28 @@ Where do/does + S + live? → Hỏi sống ở đâu
 | V1 | V2 | V3 |
 |---|---|---|
 | believe | believed | believed |
+| /bɪˈliːv/ | /bɪˈliːvd/ | /bɪˈliːvd/ |
 
 **Lưu ý:**
-- thêm -d (regular)
-- là stative verb, không dùng trong tiếp diễn
-- believe in + noun (tin vào điều gì)
+- believe in + noun (tin vào điều gì/ai)
 
 **Cấu trúc & Ví dụ:**
 
-believe + (that) + clause → Tin rằng...
-- I believe that honesty is the best policy in all situations.
-- Many experts believe that the economy will recover by next year.
+**[Động từ chính]**
+
+believe + (that) + clause → Tin rằng
+- I believe that everyone deserves a second chance.
 
 believe + in + [noun] → Tin vào cái gì/ai
-- She believed in her team's ability even when others doubted them.
-- You need to believe in yourself to achieve your goals.
+- You need to believe in yourself.
 
-be believed + to + V → Được cho là...
-- The ancient city is believed to be over 3,000 years old.
-- He is widely believed to be one of the best in his field.
+**[Câu phủ định & câu hỏi]**
 
-**Collocation phổ biến:**
-- believe strongly, believe firmly, believe in oneself, widely believed, hard to believe
+S + don't/doesn't + believe + ... → Phủ định
+- I don't believe that's true.
 
-**Phrasal Verbs:**
-- believe in: tin tưởng vào → *You need to believe in yourself.*
+Do + S + believe + ...? → Câu hỏi
+- Do you believe in ghosts?
 
 ---
 
