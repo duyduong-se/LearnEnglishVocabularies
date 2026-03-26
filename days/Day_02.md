@@ -479,32 +479,25 @@ How long + did + S + run + ...? → Câu hỏi
 | V1 | V2 | V3 |
 |---|---|---|
 | move | moved | moved |
-
-**Lưu ý:**
-- thêm -d (regular)
-- move cũng có nghĩa cảm xúc: "I was moved by the story" (cảm động)
+| /muːv/ | /muːvd/ | /muːvd/ |
 
 **Cấu trúc & Ví dụ:**
 
-move + to/from + place → Chuyển đến/từ nơi nào
-- They move frequently because of the father's job assignments.
-- Our company will move to a larger office in the city center next year.
+**[Động từ chính]**
+
+move + to + place → Chuyển đến nơi nào
+- She moved to a new city last year.
 
 move + [noun] → Di chuyển cái gì
-- Please move your car — it's blocking the entrance.
-- He moved the boxes to the storage room.
+- Can you move your bag? I need to sit down.
 
-be moved + by → Bị xúc động bởi
-- The speech moved many audience members to tears.
-- She was deeply moved by the kindness of strangers.
+**[Câu phủ định & câu hỏi]**
 
-**Collocation phổ biến:**
-- move forward, move quickly, move house, make a move, move on
+S + didn't + move + ... → Phủ định
+- He didn't move at all during the speech.
 
-**Phrasal Verbs:**
-- move on: tiếp tục, bỏ qua → *It's time to move on from the past.*
-- move in: dọn vào → *They moved in to their new apartment last week.*
-- move out: dọn ra → *She moved out when she started college.*
+When did + S + move + ...? → Câu hỏi
+- When did you move here?
 
 ---
 
