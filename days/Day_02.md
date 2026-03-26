@@ -344,31 +344,28 @@ When did + S + begin + ...? → Hỏi khi nào bắt đầu
 | V1 | V2 | V3 |
 |---|---|---|
 | show | showed | shown |
-
-**Lưu ý:**
-- V3 là "shown" (cũng chấp nhận "showed" trong một số ngữ cảnh)
+| /ʃoʊ/ | /ʃoʊd/ | /ʃoʊn/ |
 
 **Cấu trúc & Ví dụ:**
 
-show + sb + sth → Chỉ/cho ai đó xem cái gì
-- I will show you how to operate the new software at the training session.
-- She showed her students the correct way to format a report.
+**[Động từ chính]**
 
-show + [noun] → Trình bày, thể hiện
-- He showed great courage during the emergency.
-- The team showed remarkable improvement over the past month.
+show + sb + sth → Cho ai xem cái gì
+- Can you show me the way?
 
-show + that + clause → Chứng tỏ rằng...
-- The data clearly shows an increase in productivity this quarter.
-- Research shows that regular breaks improve focus.
+show + [noun] → Thể hiện, trình bày
+- She showed a lot of courage.
 
-**Collocation phổ biến:**
-- show interest, show respect, show results, show evidence, show off
+show + that + clause → Chứng tỏ rằng
+- Research shows that sleep is important.
 
-**Phrasal Verbs:**
-- show up: xuất hiện → *He finally showed up an hour late.*
-- show off: khoe khoang → *She always shows off her new gadgets.*
-- show around: dẫn tham quan → *Let me show you around the office.*
+**[Câu phủ định & câu hỏi]**
+
+S + didn't + show + ... → Phủ định
+- He didn't show any emotion.
+
+Can + S + show + ...? → Câu hỏi nhờ vả
+- Can you show me how to do this?
 
 ---
 
