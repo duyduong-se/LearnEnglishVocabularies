@@ -447,32 +447,28 @@ Do/Does + S + play + ...? → Câu hỏi
 | V1 | V2 | V3 |
 |---|---|---|
 | run | ran | run |
-
-**Lưu ý:**
-- V3 cùng dạng V1
-- run có nghĩa mở rộng: điều hành (run a company), vận hành (run a program)
+| /rʌn/ | /ræn/ | /rʌn/ |
 
 **Cấu trúc & Ví dụ:**
 
-run + [distance/direction] → Chạy bao xa/theo hướng nào
-- She runs 5 kilometers every morning to stay fit.
-- The children ran across the field laughing.
+**[Động từ chính]**
+
+run + [place/direction] → Chạy đến đâu
+- She runs every morning before work.
 
 run + [noun] → Điều hành, vận hành cái gì
-- He ran his own restaurant for over fifteen years.
-- She runs a successful online business from home.
+- He runs his own business.
 
-run + out of → Hết, cạn kiệt
-- The new software update will run automatically overnight.
-- We ran out of coffee this morning before the meeting.
+run + out of → Hết cái gì
+- We ran out of time.
 
-**Collocation phổ biến:**
-- run a business, run a risk, run out of time, run smoothly, run for office
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- run out of: cạn hết → *We ran out of coffee this morning.*
-- run into: tình cờ gặp → *I ran into an old classmate downtown.*
-- run away: chạy trốn → *The cat ran away when it heard the noise.*
+S + don't/doesn't + run + ... → Phủ định
+- I don't run as much as I should.
+
+How long + did + S + run + ...? → Câu hỏi
+- How long did you run today?
 
 ---
 
