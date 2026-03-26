@@ -376,31 +376,31 @@ Can + S + show + ...? → Câu hỏi nhờ vả
 | V1 | V2 | V3 |
 |---|---|---|
 | hear | heard | heard |
+| /hɪər/ | /hɜːrd/ | /hɜːrd/ |
 
 **Lưu ý:**
-- heard phát âm là /hɜːrd/
-- "hear" là passive (nghe thấy không chủ ý), khác "listen" (lắng nghe chủ ý)
+- "hear" = nghe thấy không chủ ý — khác "listen" (lắng nghe có chủ ý)
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 hear + [noun] → Nghe thấy cái gì
-- I can't hear you clearly — please speak up a bit.
-- Did you hear that loud noise coming from outside?
+- Did you hear that noise?
 
-hear + sb + V/V-ing → Nghe thấy ai làm gì
-- She heard that the company was planning to expand overseas.
-- I heard him talking on the phone late at night.
+hear + sb + V-ing → Nghe thấy ai đang làm gì
+- I heard someone knocking at the door.
 
-hear + (that) + clause → Nghe nói rằng...
-- We will hear from the interview panel within two weeks.
-- I heard that they are opening a new branch downtown.
+hear + (that) + clause → Nghe nói rằng
+- I heard that she moved to another city.
 
-**Collocation phổ biến:**
-- hear the news, hear a sound, hear from someone, hear about something, hear clearly
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- hear from: nhận tin từ → *I haven't heard from him in weeks.*
-- hear out: nghe hết ý kiến → *Please hear me out before judging.*
+S + can't + hear + ... → Phủ định
+- I can't hear you. Can you speak louder?
+
+Did + S + hear + ...? → Câu hỏi
+- Did you hear what he said?
 
 ---
 
