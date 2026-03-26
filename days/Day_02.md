@@ -508,31 +508,31 @@ When did + S + move + ...? → Câu hỏi
 | V1 | V2 | V3 |
 |---|---|---|
 | live | lived | lived |
+| /lɪv/ | /lɪvd/ | /lɪvd/ |
 
 **Lưu ý:**
-- thêm -d (regular)
 - live /lɪv/ (động từ) khác live /laɪv/ (tính từ: trực tiếp)
 
 **Cấu trúc & Ví dụ:**
 
-live + in/at + place → Sống ở đâu
-- My grandparents live in a quiet village in the countryside.
-- She has lived in this city for over ten years.
+**[Động từ chính]**
 
-live + [adverb] → Sống như thế nào (live well, live simply)
-- He lived in Paris for three years while studying architecture.
-- They try to live simply and avoid unnecessary expenses.
+live + in/at + place → Sống ở đâu
+- I live in Hanoi.
+
+live + [adverb] → Sống như thế nào
+- She lives alone but she's happy.
 
 live + to + [age] → Sống đến bao nhiêu tuổi
-- I hope to live in a country with a clean environment in the future.
-- Her grandmother lived to be ninety-two years old.
+- He lived to 95.
 
-**Collocation phổ biến:**
-- live alone, live together, live in peace, live a healthy life, live up to expectations
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- live up to: sống xứng với, đáp ứng kỳ vọng → *He lived up to his reputation.*
-- live on: sống nhờ vào → *She lives on a tight budget.*
+S + don't/doesn't + live + ... → Phủ định
+- She doesn't live here anymore.
+
+Where do/does + S + live? → Hỏi sống ở đâu
+- Where do you live?
 
 ---
 
