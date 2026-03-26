@@ -206,32 +206,28 @@ When did + S + leave + ...? → Hỏi khi nào rời đi
 | V1 | V2 | V3 |
 |---|---|---|
 | call | called | called |
-
-**Lưu ý:**
-- thêm -ed (regular)
-- call có nhiều nghĩa: gọi điện, gọi tên, triệu tập
+| /kɔːl/ | /kɔːld/ | /kɔːld/ |
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 call + sb → Gọi điện cho ai
-- She calls her parents every Sunday evening without fail.
-- I will call you when I have more information.
+- I'll call you later.
 
-call + sb + [name/noun] → Gọi ai bằng tên/danh xưng
-- Everyone calls him "Doc" because of his expertise.
-- His friends call him by his nickname at school.
+call + sb + [name] → Gọi ai bằng tên/danh xưng
+- Everyone calls him Max.
 
-call + [meeting/event] → Triệu tập họp, sự kiện
-- The manager called an urgent meeting to discuss the issue.
-- The principal called an assembly to address the students.
+call + [meeting] → Triệu tập cuộc họp
+- She called a meeting this morning.
 
-**Collocation phổ biến:**
-- call a meeting, call someone back, call for help, call attention to, call it a day
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- call off: hủy bỏ → *They called off the event due to rain.*
-- call back: gọi lại → *I'll call you back in an hour.*
-- call on: ghé thăm, kêu gọi → *The teacher called on him to answer.*
+S + didn't + call + ... → Phủ định
+- He didn't call me back.
+
+Did + S + call + ...? → Câu hỏi
+- Did anyone call while I was out?
 
 ---
 
