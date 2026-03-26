@@ -171,30 +171,31 @@ Did + S + try + ...? → Câu hỏi
 | V1 | V2 | V3 |
 |---|---|---|
 | leave | left | left |
+| /liːv/ | /lɛft/ | /lɛft/ |
 
 **Lưu ý:**
-- leave có hai nghĩa chính: rời đi (leave the room) và để lại (leave a message)
+- leave có hai nghĩa: rời đi (leave the room) và để lại (leave a message)
 
 **Cấu trúc & Ví dụ:**
 
-leave + [place] → Rời khỏi nơi nào
-- I usually leave home at 7:30 to avoid traffic jams.
-- The train will leave the station in exactly ten minutes.
+**[Động từ chính]**
 
-leave + [noun] + for sb → Để lại cái gì cho ai
-- She left a note on the desk before going to the meeting.
-- Please leave a message for him when you call.
+leave + [place] → Rời khỏi nơi nào
+- I left home at 7 this morning.
+
+leave + [noun] → Để lại cái gì
+- She left a note on the table.
 
 leave + sb/sth + [adj] → Để ai/cái gì trong trạng thái nào
-- Don't leave the door open when you go out.
-- He left her feeling confused and upset.
+- Don't leave the door open.
 
-**Collocation phổ biến:**
-- leave home, leave work, leave a message, leave behind, leave early
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- leave out: bỏ sót, loại trừ → *Don't leave out any important details.*
-- leave behind: bỏ lại → *He left his wallet behind at the restaurant.*
+S + didn't + leave + ... → Phủ định
+- He didn't leave a message.
+
+When did + S + leave + ...? → Hỏi khi nào rời đi
+- When did you leave the office?
 
 ---
 
