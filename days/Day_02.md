@@ -274,32 +274,31 @@ How long + did + S + keep + ...? → Hỏi bao lâu
 | V1 | V2 | V3 |
 |---|---|---|
 | let | let | let |
+| /lɛt/ | /lɛt/ | /lɛt/ |
 
 **Lưu ý:**
-- V1/V2/V3 đều là "let"
 - let + sb + V (bare infinitive, không có "to")
 
 **Cấu trúc & Ví dụ:**
 
-let + sb + V → Cho phép ai làm gì (không có "to")
-- The teacher lets students use their notes during open-book tests.
-- She let her son stay up late on weekends.
+**[Động từ chính]**
 
-let + [noun] + go → Thả ra, buông bỏ
-- He let his friend borrow his car for the weekend.
-- They finally let the matter go after a long discussion.
+let + sb + V → Cho phép ai làm gì
+- She let me borrow her bike.
+
+let + it + go → Buông bỏ, thả ra
+- Just let it go, it's not worth it.
 
 Let me + V → Để tôi làm gì (đề nghị)
-- Let me know if you need any help with the application.
-- Let me check the schedule before we confirm the meeting.
+- Let me know if you need help.
 
-**Collocation phổ biến:**
-- let someone know, let it go, let someone in, let loose, let nature take its course
+**[Câu phủ định & câu hỏi]**
 
-**Phrasal Verbs:**
-- let down: thất vọng → *He let me down by not showing up.*
-- let in: cho vào → *Please let them in, they're waiting outside.*
-- let out: để thoát ra, phát ra → *She let out a sigh of relief.*
+S + won't + let + sb + V → Phủ định
+- My parents won't let me stay out late.
+
+Will + S + let + sb + V? → Câu hỏi
+- Will you let me try?
 
 ---
 
