@@ -309,27 +309,31 @@ Will + S + let + sb + V? → Câu hỏi
 | V1 | V2 | V3 |
 |---|---|---|
 | begin | began | begun |
+| /bɪˈɡɪn/ | /bɪˈɡæn/ | /bɪˈɡʌn/ |
 
 **Lưu ý:**
-- cả ba dạng đều khác nhau
 - begin + to V hoặc begin + V-ing đều đúng
 
 **Cấu trúc & Ví dụ:**
 
+**[Động từ chính]**
+
 begin + to + V → Bắt đầu làm gì
-- She began to understand the importance of time management.
-- He began to realize he had made a mistake.
+- It began to rain on the way home.
 
 begin + V-ing → Bắt đầu làm gì (cùng nghĩa)
-- The school year begins in September in most countries.
-- It began raining just as we reached the park.
+- She began studying at midnight.
 
 begin + [noun] → Bắt đầu cái gì
-- The construction project will begin next Monday after the permits are approved.
-- They began the meeting with a brief review of last week's decisions.
+- Let's begin the meeting.
 
-**Collocation phổ biến:**
-- begin a journey, begin work, begin a conversation, begin from scratch, begin afresh
+**[Câu phủ định & câu hỏi]**
+
+S + hasn't/haven't + begun + ... → Phủ định
+- The movie hasn't begun yet.
+
+When did + S + begin + ...? → Hỏi khi nào bắt đầu
+- When did you begin learning English?
 
 ---
 
